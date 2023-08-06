@@ -1,0 +1,4 @@
+matplotlib
+PyWavelets
+pandas
+ipywidgets
